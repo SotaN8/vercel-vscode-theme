@@ -2,6 +2,8 @@
 
 Theme based on the Vercel code theme from ray.so. 
 
+**Note:** This is not an official Vercel theme. It's a hobby project created by an individual (who happens to work at Vercel at the time of creation), and is not affiliated with or endorsed by Vercel.
+
 ## Preview
 
 ![Vercel Theme Screenshot](screenshots/screenshot.png)

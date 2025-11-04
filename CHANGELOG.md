@@ -2,6 +2,14 @@
 
 All notable changes to the "Vercel Theme" extension will be documented in this file.
 
+## [1.0.1] - 2025-11-04
+
+### Changed
+- Added disclaimer to README clarifying this is not an official Vercel theme
+- Sidebar border color matching other UI borders
+- Remote window button styling with blue background
+- Git decoration colors for staged files (added, modified, deleted)
+
 ## [1.0.0] - 2025-10-30
 
 ### Added
