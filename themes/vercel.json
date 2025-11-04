@@ -19,12 +19,15 @@
     "activityBarBadge.background": "#0070f3",
     "sideBar.background": "#000000",
     "sideBar.foreground": "#eeeeee",
+    "sideBar.border": "#1a1a1a",
     "sideBarTitle.foreground": "#eeeeee",
     "sideBarSectionHeader.background": "#000000",
     "statusBar.background": "#000000",
     "statusBar.foreground": "#eeeeee",
     "statusBar.noFolderBackground": "#000000",
     "statusBar.debuggingBackground": "#000000",
+    "statusBarItem.remoteBackground": "#0070f3",
+    "statusBarItem.remoteForeground": "#ffffff",
     "titleBar.activeBackground": "#000000",
     "titleBar.activeForeground": "#eeeeee",
     "titleBar.inactiveBackground": "#000000",
@@ -90,7 +93,10 @@
     "editorBracketMatch.border": "#1f3e70",
     "editorGutter.modifiedBackground": "#00cb50",
     "gitDecoration.modifiedResourceForeground": "#00cb50",
-    "gitDecoration.untrackedResourceForeground": "#00cb50"
+    "gitDecoration.untrackedResourceForeground": "#00cb50",
+    "gitDecoration.addedResourceForeground": "#00cb50",
+    "gitDecoration.stageModifiedResourceForeground": "#00cb50",
+    "gitDecoration.stageDeletedResourceForeground": "#ff4d8d"
   },
   "tokenColors": [
     {
