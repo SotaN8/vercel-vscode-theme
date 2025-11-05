@@ -1,6 +1,6 @@
 # Vercel Cursor/VSCode Theme
 
-Theme based on the Vercel code theme from ray.so. 
+Theme based on the Vercel code theme from ray.so.
 
 **Note:** This is not an official Vercel theme. It's a hobby project created by an individual (who happens to work at Vercel at the time of creation), and is not affiliated with or endorsed by Vercel.
 
@@ -10,8 +10,20 @@ Theme based on the Vercel code theme from ray.so.
 
 ## Installation
 
-### From Marketplace (Coming Soon)
-Search for "Vercel Theme" in the VSCode/Cursor Extensions marketplace and install.
+### From Marketplace
+
+Search for "Vercel VSCode Theme" in the VSCode/Cursor Extensions marketplace and install the extension by `natemcgrady`.
+
+### From VSIX File
+
+1. Download the [.vsix](https://github.com/sotan8/vercel-vscode-theme/vercel-vscode-theme-1.0.0.vsix) file
+2. Install using one of these commands:
+   - VSCode: `code --install-extension vercel-vscode-theme-1.0.0.vsix`
+   - Cursor: `cursor --install-extension vercel-vscode-theme-1.0.0.vsix`
+3. Select the theme:
+   - Open Command Palette (`Cmd+Shift+P` / `Ctrl+Shift+P`)
+   - Type "Color Theme"
+   - Select "Vercel"
 
 ### Manual Installation
 
