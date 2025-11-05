@@ -16,7 +16,7 @@ Search for "Vercel VSCode Theme" in the VSCode/Cursor Extensions marketplace and
 
 ### From VSIX File
 
-1. Download the [.vsix](https://github.com/sotan8/vercel-vscode-theme/vercel-vscode-theme-1.0.0.vsix) file
+1. Download the [.vsix](https://github.com/SotaN8/vercel-vscode-theme/blob/main/vercel-vscode-theme-1.0.0.vsix) file
 2. Install using one of these commands:
    - VSCode: `code --install-extension vercel-vscode-theme-1.0.0.vsix`
    - Cursor: `cursor --install-extension vercel-vscode-theme-1.0.0.vsix`
